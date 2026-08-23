@@ -52,3 +52,8 @@ This project is currently unlicensed and intended for personal, educational use.
 ## FAQ
 
 Is Fit ready for daily use? Not yet — it is still an early-stage personal project. Will there be a mobile app? Possibly, once the core web experience is solid.
+
+
+## Acknowledgments
+
+Thanks to the open-source community for the tools and libraries that make small personal projects like this one possible to build and learn from.
