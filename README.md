@@ -32,3 +32,8 @@ Fit is built with a lightweight, modern stack: a JavaScript front end for the us
 ## Getting Started
 
 Clone the repository, install dependencies, and run the local development server to start exploring the project. Detailed setup instructions will be expanded here as the app matures.
+
+
+## Roadmap
+
+Planned improvements include exportable progress charts, customizable workout templates, and reminders to help maintain consistent training habits over time.
