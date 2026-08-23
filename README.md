@@ -22,3 +22,8 @@ Fit is a personal fitness tracking project focused on helping users log workouts
 ## Tech Stack
 
 Fit is built with a lightweight, modern stack: a JavaScript front end for the user interface, simple local data storage for workout history, and a component structure designed to be easy to extend as new tracking features are added.
+
+
+## Getting Started
+
+Clone the repository, install dependencies, and run the local development server to start exploring the project. Detailed setup instructions will be expanded here as the app matures.
