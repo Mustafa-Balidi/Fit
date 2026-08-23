@@ -1,3 +1,8 @@
+
+
+## Usage
+
+Open the app, create a new workout entry, and record exercises as you complete them. Past sessions are listed chronologically so progress over weeks and months is easy to review at a glance.
 # Fit
 ...
 
