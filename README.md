@@ -57,3 +57,8 @@ Is Fit ready for daily use? Not yet — it is still an early-stage personal proj
 ## Acknowledgments
 
 Thanks to the open-source community for the tools and libraries that make small personal projects like this one possible to build and learn from.
+
+
+## Support
+
+If you run into an issue or have a suggestion, please open an issue on this repository and it will be reviewed as time permits.
