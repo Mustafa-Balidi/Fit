@@ -37,3 +37,8 @@ Clone the repository, install dependencies, and run the local development server
 ## Roadmap
 
 Planned improvements include exportable progress charts, customizable workout templates, and reminders to help maintain consistent training habits over time.
+
+
+## Contributing
+
+This is currently a personal learning project, but suggestions and feedback are welcome via issues. Please open an issue to discuss any significant change before submitting a pull request.
