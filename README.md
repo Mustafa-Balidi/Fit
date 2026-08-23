@@ -42,3 +42,8 @@ Planned improvements include exportable progress charts, customizable workout te
 ## Contributing
 
 This is currently a personal learning project, but suggestions and feedback are welcome via issues. Please open an issue to discuss any significant change before submitting a pull request.
+
+
+## License
+
+This project is currently unlicensed and intended for personal, educational use. A formal license may be added as the project matures.
